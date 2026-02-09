@@ -23,7 +23,7 @@ This project helps users track income and expenses with authentication, reports,
 - JDBC
 - MySQL
 - Apache Tomcat
-- HTML5, CSS3
+- HTML, CSS
 
 ---
 
@@ -141,10 +141,8 @@ http://localhost:8080/ExpenseTracker
 
 ## 👤 Author
 **Jay Patel**
+This project is developed for learning purposes.
 
 ---
 
-## 📜 License
-This project is developed for learning and academic purposes.
 
-© 2026 Expense Tracker
